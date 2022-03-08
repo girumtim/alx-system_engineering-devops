@@ -19,4 +19,4 @@
 - **101-clean_emacs** - delete all files in the current working directory that end with the character ~
 - **102-tree** - create the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 - **103-commas** - list all files and directories alphabetically ordered and separated by commas
-- **school.mgc** - create a magic file named school.mgc that can be used with the command file to detect School data files
+- **school.mgc** - magic file that can be used with the command file to detect School data files
